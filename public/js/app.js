@@ -52503,7 +52503,7 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 
 window.Echo = new laravel_echo__WEBPACK_IMPORTED_MODULE_0__["default"]({
   broadcaster: larasocket_js__WEBPACK_IMPORTED_MODULE_1___default.a,
-  token: "3|6JftR8KjsISsbYlj3EjGBOToj0RS3iIQIRTAJigy7oEbQ79bZ6HnNPpEQnTSvVbYkgID1l9eg6TV9kSV"
+  token: "1562|5VJg5uMi4b03SZl79K5kMdjDwzprK2ge5gPwF7GG"
 });
 
 /***/ }),
@@ -52595,8 +52595,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/zach/Sites/larasocket-demo/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /Users/zach/Sites/larasocket-demo/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /Users/mohamedsaqer/Desktop/larasocket-demo-vue/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /Users/mohamedsaqer/Desktop/larasocket-demo-vue/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
